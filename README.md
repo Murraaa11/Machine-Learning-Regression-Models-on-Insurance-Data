@@ -1,4 +1,4 @@
-# Machine-Learning-Regression-Models-on-Insurance-Data
+# Insurance Model
 
 The small project developed and compared six different machine learning regression models to predict clients’ insurance charges. It generally involves the following parts:
 
